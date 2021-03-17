@@ -1,2 +1,4 @@
 # MadosavileSQL
-Tool used to find locations vulnerable to SQL Injection.
+## What is
+
+Tool uses c language and aims to help find vunerabilities to obtain passwords among other types of information.
